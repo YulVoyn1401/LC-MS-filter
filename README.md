@@ -4,6 +4,7 @@ This script is intended to filter scans from a mgf file based on the presence of
 
 This script was applied on mgf files produced from Thermo .raw files. Example files are given.
 
+Unpack the 'Scripts.rar' file that contains the 'Scripts' folder.
 The ‘Scripts’ folder contains a ‘mgfs’ folder, that should contain the .mgf files, an example file is provided. Hence, the raw LC-MS files should first be transformed to .mgf files, refer to the 'msconvert' program:  http://proteowizard.sourceforge.net/download.html
 
 The ‘settings_file.xlsx’ contains 3 sheets: 
