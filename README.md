@@ -1,5 +1,7 @@
 # LC-MS-filter
 
+Contact info: y_voynikov@pharmfac.mu-sofia.bg
+
 This script is intended to filter scans from a mgf file based on the presence of specific fragment ions and specific mass differences. The script is written in the R programming language, using RStudio.
 
 This script was applied on mgf files produced from Thermo .raw files. Example files are given.
@@ -47,4 +49,4 @@ Note that the backslash used in paths in Windows, like “E:\LC-MS\Portulaca\Scr
 After the script runs, follow the instructions.
 The results are be saved in a ‘results’ folder in your working folder, like ‘E:\LC-MS\Portulaca\Scripts\results’
 
-
+Contact info: y_voynikov@pharmfac.mu-sofia.bg
