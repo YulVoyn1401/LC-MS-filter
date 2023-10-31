@@ -2,7 +2,7 @@
 
 Contact info: y_voynikov@pharmfac.mu-sofia.bg
 
-This script is intended to filter scans from a mgf file based on the presence of specific fragment ions and specific mass differences. The script is written in the R programming language, using RStudio.
+This script is intended to filter scans from a mgf file based on the presence of specific fragment ions and specific mass differences. The script is written in the R programming language (4.3.1), using RStudio ("Mountain Hydrangea" Release (547dcf86, 2023-07-07) for windows; Posit Software, PBC).
 
 This script was applied on mgf files produced from Thermo .raw files. Example files are given.
 
